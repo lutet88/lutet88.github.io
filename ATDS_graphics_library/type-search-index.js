@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GraphicsHelper"},{"p":"<Unnamed>","l":"GraphicsUtil"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DrawCanvas"},{"p":"<Unnamed>","l":"GFXCircle"},{"p":"<Unnamed>","l":"GFXCircleOutline"},{"p":"<Unnamed>","l":"GFXDrawable"},{"p":"<Unnamed>","l":"GFXLine"},{"p":"<Unnamed>","l":"GraphicsHelper"},{"p":"<Unnamed>","l":"GraphicsUtil"},{"p":"<Unnamed>","l":"Vec2"}];updateSearchResults();
